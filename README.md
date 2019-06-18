@@ -61,7 +61,7 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 
 ---
@@ -86,7 +86,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 ---
@@ -112,7 +112,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
 ---
@@ -124,7 +124,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
 ```
 
 ---
@@ -136,7 +136,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh
 ```
 
 ---
@@ -148,7 +148,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/lightsocks.sh && chmod +x lightsocks.sh && bash lightsocks.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/lightsocks.sh && chmod +x lightsocks.sh && bash lightsocks.sh
 ```
 
 ---
@@ -211,7 +211,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/kaige2/doubi/master/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
 ```
 
 ---
